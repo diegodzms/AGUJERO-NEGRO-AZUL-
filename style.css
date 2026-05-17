@@ -1,0 +1,16 @@
+._Galaxy_Love {
+  content: "Te amo";
+  position: absolute;
+  bottom: 5vh;
+  width: 230vw;
+  max-width: 200px;
+  height: auto;
+}
+
+._Galaxy_Love::before {
+  content: "💙";
+}
+
+._Galaxy_Love::after {
+  content: "⭐";
+}
